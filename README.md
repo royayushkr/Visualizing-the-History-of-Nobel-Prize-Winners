@@ -1,4 +1,4 @@
-# 🏆 Nobel Prize Data Analysis (DataCamp Project)
+# 🏆 Nobel Prize Data Analysis 
 
 This project explores **Nobel Prize laureate data** to uncover historical trends across decades, categories, and demographics.
 
